@@ -47,6 +47,6 @@ acc=accuracy_score(Y_pred,Y_test)
 from sklearn.metrics import confusion_matrix
 zz=confusion_matrix(Y_test,Y_pred)
 
-plt
+
 
     
